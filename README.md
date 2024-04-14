@@ -38,6 +38,7 @@ sudo apt-get install nodejs npm
 
 2. **Instala las Dependencias:** Navega al directorio raíz del proyecto y ejecuta el siguiente comando para instalar las dependencias necesarias:
 
+## Instalar dependencias en entorno local
 npm install
 
 ## Uso
