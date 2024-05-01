@@ -1,6 +1,6 @@
 # Yachay Museum
 
-Aplicación web del museo perteneciente a la universidad Yachaytech que cuenta con piezas arqueologicas y actualmanet no cuenta con una pagina web que pueda ser de uso por parte de los usuarios en esta pagina se usara varias tecnologias para lanzar una pagina web completa y funcional.
+Aplicación web del museo perteneciente a la universidad Yachaytech que cuenta con piezas arqueologicas y actualmante no cuenta con una pagina web que pueda ser de uso por parte de los usuario. En esta pagina se usara varias tecnologias para lanzar una pagina web completa y funcional.
 
 ## Instalación
 
